@@ -10,6 +10,8 @@ but subzy only Do not have file addition
 
 then usage is:
 ./takekover.sh
+
 ++++++++++++++++++++++++++++++++++++++
+
 To Get SubDomains From crt.ch Website :
 + ./crt.sh <Domain.com>
