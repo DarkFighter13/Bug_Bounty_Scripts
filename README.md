@@ -15,5 +15,5 @@ then usage is:
 
 ++++++++++++++++++++++++++++++++++++++
 
-To Get SubDomains From crt.ch Website :
+To Get SubDomains From crt.sh Website :
 + ./crt.sh <Domain.com>
