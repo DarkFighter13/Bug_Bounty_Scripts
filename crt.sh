@@ -1,4 +1,9 @@
 #!/bin/bash
+#echo -e "\e[34m------------------------------------\e[0m"
+echo -e "\n\e[34m             \e[32mcrt.sh \e[34mscript          \e[0m"
+echo -e "\e[34m     Made By Eng: \e[32mMohamed Gamil       \e[0m"
+echo -e "\e[34m     Github Link \e[32mhttps://github.com/MGFocus/       \e[0m"
+echo -e "\e[34m--------------------------------------------------\e[0m"
 
 if [ -z $1 ]; then
 	echo "usage: ./crt.sh domain.com"
